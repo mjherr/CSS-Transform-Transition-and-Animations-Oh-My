@@ -1,1 +1,10 @@
+.button {
+    background-color: ghostwhite;
+}
 
+button:hover {
+    transition-timing-function: ease-in;
+    transition-delay: 1s;    
+    background-color: cornflowerblue;
+    color: white;
+}
